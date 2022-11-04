@@ -1,0 +1,8 @@
+p{
+	padding:20% 0;
+	border:dashed red;
+	height: 150;
+	box-sizing: content-box;
+	width:400px;
+	margin: 1 em;
+}
